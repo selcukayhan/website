@@ -1,7 +1,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "https://selcukayhan.github.io/",
+  "homepage": "https://selcukayhan.github.io/selcukayhan-personal",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
