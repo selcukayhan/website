@@ -1,163 +1,191 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Selçuk AYHAN",
+    "occupation":"Q&A Automation Engineer",
+    "description":"I have been working as software QA engineer in Agile software development environments. Developed, implemented, and maintained the user acceptance and full regression test cases/scripts/scenarios to ensure user-level and back-end qualities for web and api based applications",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":" Experience in Test Automation with Selenium and Rest-Assured in different languages.(Java,Javascript,Ruby,Python). Excellent knowledge of functional, usability, acceptance, exploratory, regression testing with cross-browser approach. Hands-on experience in designing and managing Test Plans, Test Suites, Test Runs and Test Cases, Functional specifications. Motivated to learn the latest technology, methodologies and skills, capable of learning quickly.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
+    "email": "selcukayhann@hotmail.com",
     "phone": "555-555-5555",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+      "city":"Istanbul",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.selcukayhan.com",
+    "resumedownload":"http://selcukayhan.com",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/slckayhn",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/slckayhn",
         "className":"fa fa-twitter"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/selcukayhan",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/selcukayhn/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/selcukayhan",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"https://join.skype.com/invite/kxT9IBDKcIQe",
         "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"T.C. Maltepe University",
+        "degree":"Bachelor of Computer Engineering",
+        "graduated":"September 2013",
+        "description":"Computer engineering is defined as the discipline that embodies the science and technology of design, implementation, and maintenance of software and hardware components of computing systems and development of computer-controlled applications."
+      }
+    ],
+    "certification":[
+      {
+        "school":"Code Quality and Analysis",
+        "degree":"Keytorch",
+        "graduated":"March 2019",
+        "description":"The goal of Code Quality and Analysis is the support high-quality software development activities and ensure technically mature projects "
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Software Testing and Quality",
+        "degree":"Keytorch",
+        "graduated":"March 2019",
+        "description":"This education for gaining recent test techniques in the Agile Projects."
+      },
+      {
+        "school":"Test Automation (Web and API)",
+        "degree":"Saha BT",
+        "graduated":"March 2017",
+        "description":"This course includes TDD which is one of the most crucial approaches of the Agile concept."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Segmentify",
+        "title":"Senior QA Automation Engineer",
+        "years":"January 2019 - Present",
+        "description":"Segmentify is creating personalized shopping experience with AI based recommendation engine. I am responsible with all QA and CI processes of development environments."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"TeamSQL",
+        "title":"Test and Release Manager",
+        "years":"May 2018 - December 2018",
+        "description":"TeamSQL is a SQL Client which support SQL and No-SQL 6 different types of databases on three Operating systems. My duties are Test And Release processes of TeamSQL. I was managing our Test Team which responsible for functional tests, meanwhile I was scheduling and preparing the test plans, test reports, preparing automation scenarios and developing automation scripts. "
+      },
+      {
+        "company":"N11",
+        "title":"Test Analyst",
+        "years":"September 2016 - May 2018",
+        "description":"As a Test Analyst, I am part of an Agile Team and my responsibilities are planing test strategies and test cycle, preparing test documents, preparing automation scenarios and developing automation scenarios. "
+      },
+      {
+        "company":"Ericsson",
+        "title":"Test Engineer",
+        "years":"January 2016 - September 2016",
+        "description":"During my tenure, I was responsible for the testing of the CRM application whom used by Vodafone's franchisees and call centers, which managing 28 million subscribers. "
+      },
+      {
+        "company":"Freelance Software Developer",
+        "title":"Software Developer",
+        "years":"January 2012 - January 2016",
+        "description":"As a freelance developer, I developed small projects(Mobile/Web) for my individual customers."
+      },
+      {
+        "company":"Coca-Cola",
+        "title":"Intern DBA ",
+        "years":"2012",
+        "description":"As a Intern DBA I learnt how data flows are managing."
+      },
+      {
+        "company":"Gen Software",
+        "title":"Intern Mobile Software Developer ",
+        "years":"2011",
+        "description":"During my tenure, I developed a Mobile CRM application which helps doctors for their appointments. "
       }
+
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"Java",
+        "level":"70%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Selenium",
+        "level":"70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Rest-Assured",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"CI/CD",
+        "level":"60%"
+      },
+      {
+        "name":"BDD",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"TDD",
+        "level":"90%"
       },
       {
-        "name":"MongoDB",
+        "name":"SQL",
         "level":"80%"
+      },
+      {
+        "name":"No-SQL",
+        "level":"70%"
+      },
+      {
+        "name":"Jmeter",
+        "level":"60%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"POM UI Test",
+        "category":"Page object model UI tests base project",
+        "image":"selenium.png",
+        "url":"https://github.com/selcukayhan/baseTestAutomationPOM"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Cucumber API Test",
+        "category":"Cucumber Api test with Rest-Assured ",
+        "image":"restAssured.png",
+        "url":"https://github.com/selcukayhan/cucumber-rest-assured"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Cucumber Selenium UI test",
+        "category":"Cucumber Selenium UI test",
+        "image":"cucumber.jpg",
+        "url":"https://github.com/selcukayhan/cucumber-java"
       },
       {
         "title":"Resume Website",
         "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "image":"react.png",
         "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
