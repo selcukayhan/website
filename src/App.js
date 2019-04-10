@@ -31,7 +31,7 @@ class App extends Component {
         this.setState({resumeData: data});
       }.bind(this),
       error: function(xhr, status, err){
-        console.log(err);
+        console.log('selam' + err);
         alert('selam' + err);
       }
     });
