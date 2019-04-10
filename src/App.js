@@ -24,15 +24,15 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'%PUBLIC_URL%/resumeData.json',
+      url:'public/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
         this.setState({resumeData: data});
       }.bind(this),
       error: function(xhr, status, err){
-        console.log('selam' + err);
-        alert('selam' + err);
+        console.log(err);
+        alert(err);
       }
     });
   }
