@@ -165,7 +165,7 @@
     "projects": [
       {
         "title":"POM UI Test",
-        "category":"Page object model UI tests base project",
+        "category":"Page object model UI tests base project ",
         "image":"selenium.png",
         "url":"https://github.com/selcukayhan/baseTestAutomationPOM"
       },
