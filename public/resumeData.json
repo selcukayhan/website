@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Selçuk AYHAN",
-    "occupation":"Q&A Automation Engineer",
+    "occupation":"QA Automation Engineer",
     "description":"I have been working as software QA engineer in Agile software development environments. Developed, implemented, and maintained the user acceptance and full regression test cases/scripts/scenarios to ensure user-level and back-end qualities for web and api based applications",
     "image":"profilepic.jpg",
     "bio":" Experience in Test Automation with Selenium and Rest-Assured in different languages.(Java,Javascript,Ruby,Python). Excellent knowledge of functional, usability, acceptance, exploratory, regression testing with cross-browser approach. Hands-on experience in designing and managing Test Plans, Test Suites, Test Runs and Test Cases, Functional specifications. Motivated to learn the latest technology, methodologies and skills, capable of learning quickly.",
@@ -9,7 +9,7 @@
     "email": "selcukayhann@hotmail.com",
     "phone": "555-555-5555",
     "address":{
-      "city":"Istanbul",
+      "city":"Amsterdam",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.selcukayhan.com",
