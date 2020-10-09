@@ -1,7 +1,3 @@
-# React JS Resume Web App Template      
-Thanks to Tim Baker for sharing this kind of project with us.
-### <a href="https://github.com/tbakerx">TimBaker</a> 
-
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 ### <a href="https://selcukayhan.github.io/website/">LIVE DEMO</a> 
 
@@ -26,17 +22,3 @@ To populate the website with all of your own data, open the public/resumeData.js
 Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
 ### 7. Enjoy your new Resume Website
 When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
-
-
-## Credits
-##### Udemy Course
-<a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
-
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-
-##### Header photo credit
-<a href="https://unsplash.com/@mischievous_penguins?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Casey Horner</a>
-
-##### Testimonial photo credit
-<a href="https://unsplash.com/@samuelzeller?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Samuel Zeller</a>
