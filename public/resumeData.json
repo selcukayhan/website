@@ -79,6 +79,12 @@
     ],
     "work":[
       {
+        "company":"Mediamonks",
+        "title":"QA Automation Team Lead",
+        "years":"May 2019 - Present",
+        "description":"Managing the global QA automation team while creating a strong automation infrastructure is my key responsibility. Developing and supporting QA Automation solutions with Java, Selenium, Appium, Rest-assured, AWS tools for our clients and managing all the automation lifecycle from integration to E2E phases on CI/CD pipelines for different platforms such as Web, Mobile, API."
+      },
+      {
         "company":"Segmentify",
         "title":"Senior QA Automation Engineer",
         "years":"January 2019 - Present",
